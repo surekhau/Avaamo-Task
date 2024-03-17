@@ -1,0 +1,13 @@
+I found the below bug while doing the automation
+
+1. I can see Thick Crust instead of thin crust
+
+Steps:
+1. Send message 'I want to order pizza'
+2. select veg/non-veg pizza
+3. select any topping, i selected cheese
+4. you can see Great! you have selected cheese
+
+Observed: Able to see Thin crust heading but Thick crust link
+
+Expected: link text should also be Thin crust
