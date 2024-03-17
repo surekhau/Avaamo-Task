@@ -1,4 +1,5 @@
 I used Windows so I gave the instructions according to windows. Most of the steps are same in Mac
+
 Necessary tools:
 Maven
 Eclipse for java EE developers
