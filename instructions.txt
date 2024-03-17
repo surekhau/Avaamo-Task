@@ -1,0 +1,18 @@
+I used Windows so I gave the instructions according to windows. Most of the steps are same in Mac
+Necessary tools:
+Maven
+Eclipse for java EE developers
+Java JDK
+Testng
+
+Steps:
+Please integrate eclipse with maven and testng
+clone the code from github repository url : https://github.com/surekhau/Avaamo-Task.git
+Go to eclipse : import maven project
+Right click on testing.xml file and click on Run as TestNG suite
+Refresh the maven project after completed running all tests
+Go to test-output - Right click on Index.html - open with - Web Browser
+Click on Passed methods - show to see all the success cases
+Click on Reporter output to see all the screenshots and basic logs
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="AvaamoTask" verbose="1" >
+  <test name="Regression suite" >
+    <classes>
+      <class name="mcPizzaTests.TestWelcomePage"/>
+      <class name="mcPizzaTests.TestLoginPage"/>
+      <class name="mcPizzaTests.TestOrderPage"/>
+    </classes>
+ </test>
+</suite>
